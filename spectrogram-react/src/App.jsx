@@ -61,7 +61,7 @@ const AppContent = () => {
       
       {/* Footer */}
       <footer className={`py-4 ${theme === 'dark' ? 'bg-gray-800 text-gray-400' : 'bg-gray-100 text-gray-700'} text-center text-sm`}>
-        <p>SonoViz © 2024 - A professional audio spectrogram visualization tool for MIR research</p>
+        <p>A professional audio spectrogram visualization tool for MIR research</p>
       </footer>
     </div>
   );
