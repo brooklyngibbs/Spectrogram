@@ -27,19 +27,19 @@
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/brooklyngibbs/spectrogram-visualizer.git
-cd spectrogram-visualizer
+cd Spectrogram
 ```
 
 ### 2. Install Dependencies
 #### Frontend (React)
 ```sh
-cd frontend
+cd spectrogram-react
 npm install
 ```
 
 #### Backend (FastAPI)
 ```sh
-cd backend
+cd spectrogram-backend
 pip install -r requirements.txt
 ```
 
@@ -51,7 +51,7 @@ uvicorn main:app --reload
 
 #### Start the Frontend
 ```sh
-npm start
+npm run dev
 ```
 
 ## 🎨 Customization
