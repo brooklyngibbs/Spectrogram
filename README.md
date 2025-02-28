@@ -26,7 +26,7 @@
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/brooklyngibbs/spectrogram-visualizer.git
+git clone https://github.com/brooklyngibbs/Spectrogram.git
 cd Spectrogram
 ```
 
